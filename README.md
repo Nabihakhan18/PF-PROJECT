@@ -1,5 +1,3 @@
-# PF-PROJECT
-Whack-A-Mole
 # Raylib C++ Starter Template
 
 Raylib C++ Starter Template for Visual Studio Code on Windows.
@@ -25,3 +23,4 @@ Tested on both Windows 10 and Windows 11.
 | 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
 | 🌍 <a href="https://www.programmingwithnick.com">My Website</a> | <br>
 </p>
+
